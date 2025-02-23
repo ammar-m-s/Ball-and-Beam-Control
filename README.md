@@ -24,7 +24,7 @@ We extend our gratitude to **Professor Naseem Daher** for his guidance and valua
 ### 3. **Control System Design**
    - Implemented **PID Control** for the motor.
    - Designed a **Lag-Lead compensator** for improved stability and performance.
-   - Validated performance through **simulations in MATLAB**.
+   - Validated performance through **simulations in MATLAB** and experimentally.
 
 ### 4. **Simulation & Experimental Results**
    - Conducted **open-loop and closed-loop analysis**.
