@@ -36,11 +36,11 @@ We extend our gratitude to **Professor Naseem Daher** for his guidance and valua
 - Lag-Lead compensators improve transient response and robustness.
 - The best approach was **sequential compensation**, first stabilizing the motor and then tuning the overall system.
 
-## How to Run the Simulations
-1. Open `MATLAB`.
-2. Run `BallBeamSimulation.m` to visualize system dynamics.
-3. Adjust `PID.m` and `Compensator.m` for tuning.
-4. View results in `Figures/`.
+//## How to Run the Simulations
+//%1. Open `MATLAB`.
+//%2. Run `BallBeamSimulation.m` to visualize system dynamics.
+//%3. Adjust `PID.m` and `Compensator.m` for tuning.
+//%4. View results in `Figures/`.
 
 ## Future Work
 - Implement **Adaptive or Model Predictive Control (MPC)** for enhanced performance.
