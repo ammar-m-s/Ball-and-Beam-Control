@@ -4,8 +4,8 @@
 The **Ball and Beam System** is a classical control problem that demonstrates feedback control principles, stability analysis, and system modeling. This project involves modeling, simulating, and implementing various control strategies, including **PID control and Lag-Lead compensators**, to stabilize the ball on the beam.
 
 ## Authors
-- Hossam Mostafa
 - Amjad Khaddaj
+- Hossam Mostafa
 - Malak Ammar
 
 ## Acknowledgments
