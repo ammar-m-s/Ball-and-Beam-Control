@@ -38,7 +38,6 @@ We extend our gratitude to **Professor Naseem Daher** for his guidance and valua
 
 ## Future Work
 - Implement **Adaptive or Model Predictive Control (MPC)** for enhanced performance.
-- Account for **external disturbances** like friction and vibrations.
-- Design **real-time control using microcontrollers (e.g., Arduino, Raspberry Pi)**.
+- Account for **external disturbances** like  vibrations.
 
 ---
